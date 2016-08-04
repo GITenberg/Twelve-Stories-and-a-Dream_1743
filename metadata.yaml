@@ -1,0 +1,32 @@
+_repo: Twelve-Stories-and-a-Dream_1743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction, English'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: Filmer -- The magic shop -- The valley of spiders -- The truth about
+  Pyecraft -- Mr. Skelmersdale in fairyland -- The story of the inexperienced ghost
+  -- Jimmy Goggles the god -- The new accelerator -- Mr. Ledbetter's vacation -- The
+  stolen body -- Mr. Brisher's treasure -- Miss Winchelsea's heart -- A dream of Armageddon.
+title: Twelve Stories and a Dream
+url: http://www.gutenberg.org/ebooks/1743
